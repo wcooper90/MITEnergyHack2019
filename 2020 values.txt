@@ -1,0 +1,30 @@
+
+Winter 2020:
+
+HB_WEST day peak, night peak: [19.5668, 20.8598]
+DOMINION HUB day peak, night peak: [26.4953, 28.1499]
+SPPNORTH_HUB day peak, night peak: [29.7406, 17.9244]
+HB_NORTH day peak, night peak: [20.031, 21.7662]
+
+Spring 2020:
+
+HB_WEST day peak, night peak: [18.4161, 1.1588]
+DOMINION HUB day peak, night peak: [23.8281, 18.5161]
+SPPNORTH_HUB day peak, night peak: [19.4806, 7.2916]
+HB_NORTH day peak, night peak: [19.1037, 0.9592]
+
+
+Summer 2020: 
+
+HB_WEST day peak, night peak: [22.0954, 16.0379]
+DOMINION HUB day peak, night peak: [28.4968, 22.1247]
+SPPNORTH_HUB day peak, night peak: [26.6064, 14.9032]
+HB_NORTH day peak, night peak: [25.2557, 16.3332]
+
+Fall 2020: 
+
+HB_WEST day peak, night peak: [22.8126, 0.8367]
+DOMINION HUB day peak, night peak: [25.1372, 12.8207]
+SPPNORTH_HUB day peak, night peak: [18.9822, 11.8515]
+HB_NORTH day peak, night peak: [17.7053, 8.0739]
+
